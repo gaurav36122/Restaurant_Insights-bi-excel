@@ -80,7 +80,7 @@ The dashboard contains multiple interactive visualizations to enhance insights:
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview](https://github.com/YourUsername/RestaurantInsights/raw/main/DashboardPreview.png)
+![Dashboard Preview](https://github.com/gaurav36122/Restaurant_Insights-bi-excel/blob/main/Dashboard.png?raw=true)
 
 ---
 
@@ -104,7 +104,8 @@ RestaurantInsights/
 
 ---
 
-## ✍ Author
+👤 Author
 
-
-**Gaurav Singh**
+Gaurav Singh
+📧 Email: (gaurav36122@gmail.com)
+💼 LinkedIn: (www.linkedin.com/in/gaurav-singh-692b24273)
