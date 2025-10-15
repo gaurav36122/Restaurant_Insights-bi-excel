@@ -5,6 +5,11 @@
 **RestaurantInsights** is a comprehensive Power BI dashboard that analyzes restaurant data from Zomato. This project provides meaningful insights into restaurants, cuisines, ratings, cities, countries, table bookings, and online delivery trends. The dashboard is designed to help understand restaurant patterns and performance across multiple regions for data-driven decision-making.
 
 ---
+## 🖼 Dashboard Preview
+
+![Dashboard Preview](https://github.com/gaurav36122/Restaurant_Insights-bi-excel/blob/main/Dashboard.png?raw=true)
+
+---
 
 ## 🗂 Dataset
 
@@ -78,11 +83,7 @@ The dashboard contains multiple interactive visualizations to enhance insights:
 
 ---
 
-## 🖼 Dashboard Preview
 
-![Dashboard Preview](https://github.com/gaurav36122/Restaurant_Insights-bi-excel/blob/main/Dashboard.png?raw=true)
-
----
 
 ## ⚡ Technologies Used
 
